@@ -70,9 +70,12 @@ Django Research in University
           <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <strong>Visualization of sound source data using javascript module</strong>
-                  <img width="1433" alt="image" src="https://github.com/P-Chanyeop/Django-AI-Project/assets/112680039/74df0719-1bde-4275-99bd-a2166a208f49">
-                <img width="1348" alt="image" src="https://github.com/P-Chanyeop/Django-AI-Project/assets/112680039/19a09ea2-cd81-4d5c-912c-eda4838a4863">
-                <img width="1346" alt="image" src="https://github.com/P-Chanyeop/Django-AI-Project/assets/112680039/1b84d1f7-b8fc-4c43-b7f5-79a568cc4ccd">
+                  <img width="1679" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/eca95c2a-2ed8-4d2e-b4fd-e7e1dee4a977">
+                <img width="1130" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/298608b1-bb38-4675-bee3-76ae9ca77e0b">
+                <img width="568" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/ba13f529-cd9d-430d-b100-c7c453b6e514">
+                <img width="565" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/87621afc-df48-4334-b316-515232f1c6ef">
+                <img width="1152" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/bec4cf5f-602d-4bbd-b056-f557efee28ed">
+
 <img width="1305" alt="image" src="https://github.com/P-Chanyeop/Django-AI-Project/assets/112680039/43582da7-4e48-4f22-8e76-3aecbf04f2da">
             </div>
         </div>
