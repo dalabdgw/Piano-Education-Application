@@ -6,7 +6,7 @@ Django Research in University
 <br>
 <br>
 
-# 프로젝트 목차 및 설명 
+# Introduce 
 <hr>
 
 
@@ -31,10 +31,10 @@ Django Research in University
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <strong>'Jump To Django를 활용한 게시판 만들기'</strong>
-              <p>박응용 저자의 '점프 투 장고'의 위키독스를 참고하여 만들어진 게시판 서비스 입니다.
-                파이썬 설치부터 시작하여 서비스 운영까지 웹 프로그래밍의 처음부터 끝까지 모든 것을 알 수 있도록 구성되어 있습니다.
-                Django를 활용하여 AI 기술들과 접목시키기 위하여 앞서서 공부하기 위한 단계입니다.
+              <strong>'Jump To Django'</strong>
+              <p>This is a bulletin board service created by referring to WikiDogs of 'Jump Submission' by author Park Eung-yong.
+                It's configured to know everything from the beginning to the end of web programming, from Python installation to service operation.
+                It is a step to study beforehand to incorporate Django into AI technologies.
               </p>
             </div>
           </div>
@@ -52,7 +52,7 @@ Django Research in University
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <strong>Python을 활용한 AI 기술 사용</strong>
+              <strong>AI technology using python</strong>
               <code>No-Contents</code>
             </div>
           </div>
@@ -69,7 +69,7 @@ Django Research in University
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <strong>Javascript 모듈을 활용한 음원 데이터 시각화</strong>
+              <strong>Visualization of sound source data using javascript module</strong>
                   <img width="1433" alt="image" src="https://github.com/P-Chanyeop/Django-AI-Project/assets/112680039/74df0719-1bde-4275-99bd-a2166a208f49">
                 <img width="1348" alt="image" src="https://github.com/P-Chanyeop/Django-AI-Project/assets/112680039/19a09ea2-cd81-4d5c-912c-eda4838a4863">
                 <img width="1346" alt="image" src="https://github.com/P-Chanyeop/Django-AI-Project/assets/112680039/1b84d1f7-b8fc-4c43-b7f5-79a568cc4ccd">
@@ -90,7 +90,7 @@ Django Research in University
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-                <strong>Django와 AI Tech의 합성서비스 개발</strong>
+                <strong>Development of Django and AI Tech Synthetic Services</strong>
                 <code>No-Contents</code>   
           </div>
         </div>
