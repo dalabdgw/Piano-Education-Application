@@ -97,20 +97,20 @@ Django Research in University
             <div class="accordion-body">
                 <strong>Development of Django and AI Tech Synthetic Services</strong>
                 <p>
-                    - Environment -
-                    Python 3.8
-                    Django Framework
-                    Echart
-                    Bootstrap 5.1.3
-                    HTML/CSS/JS vanilla
+                    <h3>- Environment -</h3><br>
+                    Python 3.8    <br>
+                    Django Framework    <br>
+                    Echart    <br>
+                    Bootstrap 5.1.3    <br>
+                    HTML/CSS/JS vanilla    <br>
                     <br />
-                    - modules - 
-                    librosa
-                    PIL
-                    pyscript
-                    scipy
-                    numpy
-                    matplotlib
+                    <h3>- modules -</h3> <br>
+                    librosa    <br>
+                    PIL    <br>
+                    pyscript    <br>
+                    scipy    <br>
+                    numpy    <br>
+                    matplotlib    <br>
                     <br>
                 </p>
           </div>
