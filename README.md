@@ -1,4 +1,4 @@
-<img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/58d8b757-c392-4b1b-a852-9a7ce0e4ec7c"># Django-AI-Project
+# Django-AI-Project
 Django Research in University
 <br>
 <br>
@@ -40,6 +40,7 @@ Django Research in University
                 <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/c776f062-e9c6-4ebe-af8d-c1b84a201316">
                 <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/b1b41088-52fe-4517-ad4f-98adc132c8e8">
                 <img width="1164" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/ba9e7071-b0df-4715-881e-0a0fa08f6919">
+                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/58d8b757-c392-4b1b-a852-9a7ce0e4ec7c">
             </div>
           </div>
         </div>
