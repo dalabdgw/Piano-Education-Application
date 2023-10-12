@@ -1,4 +1,4 @@
-# Django-AI-Project
+<img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/58d8b757-c392-4b1b-a852-9a7ce0e4ec7c"># Django-AI-Project
 Django Research in University
 <br>
 <br>
@@ -36,6 +36,10 @@ Django Research in University
                 It's configured to know everything from the beginning to the end of web programming, from Python installation to service operation.
                 It is a step to study beforehand to incorporate Django into AI technologies.
               </p>
+                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/06a53352-fa1e-4b37-99e1-c061388be46e">
+                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/c776f062-e9c6-4ebe-af8d-c1b84a201316">
+                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/b1b41088-52fe-4517-ad4f-98adc132c8e8">
+                <img width="1164" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/ba9e7071-b0df-4715-881e-0a0fa08f6919">
             </div>
           </div>
         </div>
@@ -92,7 +96,23 @@ Django Research in University
           <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body">
                 <strong>Development of Django and AI Tech Synthetic Services</strong>
-                <code>No-Contents</code>   
+                <p>
+                    - Environment -
+                    Python 3.8
+                    Django Framework
+                    Echart
+                    Bootstrap 5.1.3
+                    HTML/CSS/JS vanilla
+                    <br />
+                    - modules - 
+                    librosa
+                    PIL
+                    pyscript
+                    scipy
+                    numpy
+                    matplotlib
+                    <br>
+                </p>
           </div>
         </div>
       </div>
