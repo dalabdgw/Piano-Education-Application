@@ -109,8 +109,7 @@ width: 100%;
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <strong>AI technology using python</strong>
-              <code>No-Contents</code>
+              <strong><code>To be developed</code></strong>
             </div>
           </div>
             <br>
