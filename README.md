@@ -120,33 +120,8 @@ width: 100%;
             <br>
         <div class="accordion-item">
           <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              #3. Django pybo board project
-            </button>
-          </h2>
-          <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-              <strong>'Jump To Django'</strong>
-              <p>This is a bulletin board service created by referring to wikidocs of 'jump to django' by author Park Eung-yong.
-                It's configured to know everything from the beginning to the end of web programming, from python installation to service operation.
-                It is a step to study beforehand to incorporate django into ai technologies.
-              </p>
-                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/06a53352-fa1e-4b37-99e1-c061388be46e">
-                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/c776f062-e9c6-4ebe-af8d-c1b84a201316">
-                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/b1b41088-52fe-4517-ad4f-98adc132c8e8">
-                <img width="1164" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/ba9e7071-b0df-4715-881e-0a0fa08f6919">
-            </div>
-          </div>
-        </div>    
-        <br>
-        <br>
-            <br>
-            <br>
-            <br>
-        <div class="accordion-item">
-          <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              #4. Django & AI research website
+              #3. Django & AI research website
             </button>
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
