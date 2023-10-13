@@ -39,6 +39,61 @@ Django research in university
                 <img width="1130" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/298608b1-bb38-4675-bee3-76ae9ca77e0b">
                 <img width="1152" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/bec4cf5f-602d-4bbd-b056-f557efee28ed">
             </div>
+            <div>
+                <br>
+                <br>
+                <hr>
+                <p><strong><code>alphaBars</code></strong> - When set to true each bar's amplitude affects its opacity, i.e., higher bars are rendered more opaque while shorter bars are more transparent. 
+                    This is similar to the lumiBars effect, but bars' amplitudes are preserved and it also works on Discrete mode and radial spectrum.
+                    For effect priority when combined with other settings, see isAlphaBars.
+                    Defaults to false.</p>
+                <br>
+                <br>
+                <p><strong><code>ansiBands</code></strong> - When set to true, ANSI/IEC preferred frequencies are used to generate the bands for octave bands modes (see mode). The preferred base-10 scale is used to compute the center and bandedge frequencies, as specified in the ANSI S1.11-2004 standard. When false, bands are based on the equal-tempered scale, so that in 1/12 octave bands the center of each band is perfectly tuned to a musical note.</p>
+                 <br>
+                <br>
+                <p><strong><code>ledBars</code></strong> - true to activate the LED bars effect for frequency bands modes (see mode). This effect can be customized via setLedParams() method. For effect priority when combined with other settings, see isLedBars. See also trueLeds. Defaults to false.</p>
+                 <br>
+                <br>
+                <p><strong><code>lumiBars</code></strong> - This is only effective for frequency bands modes (see mode). When set to true all analyzer bars will be displayed at full height with varying luminance (opacity, actually) instead. lumiBars takes precedence over alphaBars and outlineBars, except on radial spectrum. For effect priority when combined with other settings, see isLumiBars. Defaults to false.</p>
+                <br>
+                <br>
+                <p><strong><code>noteLabels</code></strong> - When set to true displays musical note labels instead of frequency values, in the X axis (when showScaleX is also set to true). For best visualization in octave bands modes, make sure frequencyScale is set to 'log' and ansiBands is set to false, so bands are tuned to the equal temperament musical scale. Defaults to false.</p>
+                <br>
+                <br>
+                <p><strong><code>outlineBars</code></strong> - When true and mode is set to one of the bands modes, analyzer bars are rendered outlined, with customizable fillAlpha and lineWidth. For effect priority when combined with other settings, see isOutlineBars. Defaults to false.</p>
+                <br>
+                <br>
+                <p><strong><code>loRes</code></strong> - true for low resolution mode. Defaults to false. Low resolution mode halves the effective pixel ratio, resulting in four times less pixels to render. This may improve performance significantly, especially in 4K+ monitors. If you want to allow users to interactively toggle low resolution mode, you may need to set a fixed size for the canvas via CSS. 
+                    <br>like so:
+
+canvas {
+display: block;
+width: 100%;
+}
+                    <br>
+                    <br>
+                    This will prevent the canvas size from changing, when switching the low resolution mode on and off.
+                </p>
+                <br>
+                <br>
+                <p><strong><code>splitGradient</code></strong> - When set to true and channelLayout is dual-vertical, the gradient will be split between channels. When false, both channels will use the full gradient. The effect is illustrated below, using the 'classic' gradient.</p>
+                <br>
+                <br>
+                <p><strong><code>showBgColor</code></strong> - Determines whether the canvas background should be painted. If true, the background color defined by the current gradient will be used. Opacity can be adjusted via bgAlpha property, when overlay is true. If false, the canvas background will be painted black when overlay is false, or transparent when overlay is true. See also registerGradient(). Defaults to true.</p>
+                <br>
+                <br>
+                <p><strong><code>showFPS</code></strong> - true to display the current frame rate. Defaults to false.</p>
+                <br>
+                <br>
+                <p><strong><code>showPeaks</code></strong> - true to show amplitude peaks. Defaults to true.</p>
+                <br>
+                <br>
+                <p><strong><code>showScaleX</code></strong> - true to display scale labels on the X axis. See also noteLabels. Defaults to true.</p>
+                <br>
+                <br>
+                <p><strong><code>showScaleY</code></strong> - true to display the level/amplitude scale on the Y axis. This option has no effect when radial or lumiBars are set to true. When linearAmplitude is set to false (default), labels are shown in decibels (dB); otherwise, values represent a percentage (0-100%) of the maximum amplitude. See also minDecibels and maxDecibels. Defaults to false.</p>
+            </div>
         </div>
         </div>
             <br>
