@@ -32,9 +32,9 @@ Django Research in University
           <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <strong>'Jump To Django'</strong>
-              <p>This is a bulletin board service created by referring to WikiDogs of 'Jump Submission' by author Park Eung-yong.
-                It's configured to know everything from the beginning to the end of web programming, from Python installation to service operation.
-                It is a step to study beforehand to incorporate Django into AI technologies.
+              <p>This is a bulletin board service created by referring to wikidocs of 'jump to django' by author Park Eung-yong.
+                It's configured to know everything from the beginning to the end of web programming, from python installation to service operation.
+                It is a step to study beforehand to incorporate django into ai technologies.
               </p>
                 <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/06a53352-fa1e-4b37-99e1-c061388be46e">
                 <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/c776f062-e9c6-4ebe-af8d-c1b84a201316">
@@ -68,7 +68,7 @@ Django Research in University
         <div class="accordion-item">
           <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              #3. Data Analyze & Visualization
+              #3. Data analyze & Visualization
             </button>
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -77,8 +77,6 @@ Django Research in University
                   <img width="1679" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/eca95c2a-2ed8-4d2e-b4fd-e7e1dee4a977">
                 <img width="1130" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/298608b1-bb38-4675-bee3-76ae9ca77e0b">
                 <img width="1152" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/bec4cf5f-602d-4bbd-b056-f557efee28ed">
-
-<img width="1305" alt="image" src="https://github.com/P-Chanyeop/Django-AI-Project/assets/112680039/43582da7-4e48-4f22-8e76-3aecbf04f2da">
             </div>
         </div>
         </div>
@@ -90,12 +88,12 @@ Django Research in University
         <div class="accordion-item">
           <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              #4. Django & AI Research Website
+              #4. Django & AI research website
             </button>
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-                <strong>Development of Django and AI Tech Synthetic Services</strong>
+                <strong>Development of django and ai tech synthetic services</strong>
                 <p>
                     <h3>- Environment -</h3><br>
                     Python 3.8    <br>
@@ -104,7 +102,7 @@ Django Research in University
                     Bootstrap 5.1.3    <br>
                     HTML/CSS/JS vanilla    <br>
                     <br />
-                    <h3>- modules -</h3> <br>
+                    <h3>- Module -</h3> <br>
                     librosa    <br>
                     PIL    <br>
                     pyscript    <br>
