@@ -1,5 +1,5 @@
 # Django-AI-Project
-Django Research in University
+Django research in university
 <br>
 <br>
 <br>
@@ -25,23 +25,21 @@ Django Research in University
     <div class="accordion" id="accordionExample">
         <div class="accordion-item">
           <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              #1. Django Pybo Board Project
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              #1. Data analyze & Visualization
             </button>
           </h2>
-          <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+            <br>
+          <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <strong>'Jump To Django'</strong>
-              <p>This is a bulletin board service created by referring to wikidocs of 'jump to django' by author Park Eung-yong.
-                It's configured to know everything from the beginning to the end of web programming, from python installation to service operation.
-                It is a step to study beforehand to incorporate django into ai technologies.
+              <strong>Visualization of sound source data using javascript module</strong>
+                <p>
               </p>
-                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/06a53352-fa1e-4b37-99e1-c061388be46e">
-                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/c776f062-e9c6-4ebe-af8d-c1b84a201316">
-                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/b1b41088-52fe-4517-ad4f-98adc132c8e8">
-                <img width="1164" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/ba9e7071-b0df-4715-881e-0a0fa08f6919">
+                  <img width="1679" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/eca95c2a-2ed8-4d2e-b4fd-e7e1dee4a977">
+                <img width="1130" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/298608b1-bb38-4675-bee3-76ae9ca77e0b">
+                <img width="1152" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/bec4cf5f-602d-4bbd-b056-f557efee28ed">
             </div>
-          </div>
+        </div>
         </div>
             <br>
             <br>
@@ -67,19 +65,24 @@ Django Research in University
             <br>
         <div class="accordion-item">
           <h2 class="accordion-header">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              #3. Data analyze & Visualization
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              #3. Django pybo board project
             </button>
           </h2>
-          <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <strong>Visualization of sound source data using javascript module</strong>
-                  <img width="1679" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/eca95c2a-2ed8-4d2e-b4fd-e7e1dee4a977">
-                <img width="1130" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/298608b1-bb38-4675-bee3-76ae9ca77e0b">
-                <img width="1152" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/bec4cf5f-602d-4bbd-b056-f557efee28ed">
+              <strong>'Jump To Django'</strong>
+              <p>This is a bulletin board service created by referring to wikidocs of 'jump to django' by author Park Eung-yong.
+                It's configured to know everything from the beginning to the end of web programming, from python installation to service operation.
+                It is a step to study beforehand to incorporate django into ai technologies.
+              </p>
+                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/06a53352-fa1e-4b37-99e1-c061388be46e">
+                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/c776f062-e9c6-4ebe-af8d-c1b84a201316">
+                <img width="1792" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/b1b41088-52fe-4517-ad4f-98adc132c8e8">
+                <img width="1164" alt="image" src="https://github.com/dalabdgw/Piano_Education_Application/assets/112680039/ba9e7071-b0df-4715-881e-0a0fa08f6919">
             </div>
-        </div>
-        </div>
+          </div>
+        </div>    
         <br>
         <br>
             <br>
