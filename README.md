@@ -99,12 +99,12 @@ width: 100%;
             <br>
                 <hr>
                 <h4> Time - Amplitude chart </h4>
-                <p>The x-axis represents time and the y-axis represents amplitude. The amplitude change corresponding to the time of the sound data is visualized and shown.</p>
+                <p>The x-axis represents time and the y-axis represents amplitude. The amplitude change corresponding to the time of the sound data is visualized and shown. You can also move the scrollbar below to cut and view only the information on the desired section.</p>
                 <br>
                 <br>
-                <hr>
                 <h4> Code - Pitch chart </h4>
-                <p>The x-axis represents the scale, and the y-axis represents the pitch of the scale. It is a chart that analyzes and shows the pitch of scales appearing in sound data.</p>
+                <p>The x-axis represents the scale, and the y-axis represents the pitch of the scale. It is a chart that analyzes and shows the pitch of scales appearing in sound data. The analysis information can be viewed by enlarging the desired part through drag, and the analysis chart can be stored as an image.</p>
+                <hr>
             </div>
         </div>
         </div>
