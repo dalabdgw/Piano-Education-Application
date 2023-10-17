@@ -52,7 +52,7 @@ Django research in university
                 <p><strong><code>ansiBands</code></strong> - When set to true, ANSI/IEC preferred frequencies are used to generate the bands for octave bands modes (see mode). The preferred base-10 scale is used to compute the center and bandedge frequencies, as specified in the ANSI S1.11-2004 standard. When false, bands are based on the equal-tempered scale, so that in 1/12 octave bands the center of each band is perfectly tuned to a musical note.</p>
                  <br>
                 <br>
-                <p><strong><code>ledBars</code></strong> - true to activate the LED bars effect for frequency bands modes (see mode). This effect can be customized via setLedParams() method. For effect priority when combined with other settings, see isLedBars. See also trueLeds. Defaults to false.</p>
+                <p><strong><code>ledBars</code></strong> - True to activate the LED bars effect for frequency bands modes (see mode). This effect can be customized via setLedParams() method. For effect priority when combined with other settings, see isLedBars. See also trueLeds. Defaults to false.</p>
                  <br>
                 <br>
                 <p><strong><code>lumiBars</code></strong> - This is only effective for frequency bands modes (see mode). When set to true all analyzer bars will be displayed at full height with varying luminance (opacity, actually) instead. lumiBars takes precedence over alphaBars and outlineBars, except on radial spectrum. For effect priority when combined with other settings, see isLumiBars. Defaults to false.</p>
@@ -64,7 +64,7 @@ Django research in university
                 <p><strong><code>outlineBars</code></strong> - When true and mode is set to one of the bands modes, analyzer bars are rendered outlined, with customizable fillAlpha and lineWidth. For effect priority when combined with other settings, see isOutlineBars. Defaults to false.</p>
                 <br>
                 <br>
-                <p><strong><code>loRes</code></strong> - true for low resolution mode. Defaults to false. Low resolution mode halves the effective pixel ratio, resulting in four times less pixels to render. This may improve performance significantly, especially in 4K+ monitors. If you want to allow users to interactively toggle low resolution mode, you may need to set a fixed size for the canvas via CSS. 
+                <p><strong><code>loRes</code></strong> - True for low resolution mode. Defaults to false. Low resolution mode halves the effective pixel ratio, resulting in four times less pixels to render. This may improve performance significantly, especially in 4K+ monitors. If you want to allow users to interactively toggle low resolution mode, you may need to set a fixed size for the canvas via CSS. 
                     <br>like so:
 
 canvas {
@@ -83,16 +83,16 @@ width: 100%;
                 <p><strong><code>showBgColor</code></strong> - Determines whether the canvas background should be painted. If true, the background color defined by the current gradient will be used. Opacity can be adjusted via bgAlpha property, when overlay is true. If false, the canvas background will be painted black when overlay is false, or transparent when overlay is true. See also registerGradient(). Defaults to true.</p>
                 <br>
                 <br>
-                <p><strong><code>showFPS</code></strong> - true to display the current frame rate. Defaults to false.</p>
+                <p><strong><code>showFPS</code></strong> - True to display the current frame rate. Defaults to false.</p>
                 <br>
                 <br>
-                <p><strong><code>showPeaks</code></strong> - true to show amplitude peaks. Defaults to true.</p>
+                <p><strong><code>showPeaks</code></strong> - True to show amplitude peaks. Defaults to true.</p>
                 <br>
                 <br>
-                <p><strong><code>showScaleX</code></strong> - true to display scale labels on the X axis. See also noteLabels. Defaults to true.</p>
+                <p><strong><code>showScaleX</code></strong> - True to display scale labels on the X axis. See also noteLabels. Defaults to true.</p>
                 <br>
                 <br>
-                <p><strong><code>showScaleY</code></strong> - true to display the level/amplitude scale on the Y axis. This option has no effect when radial or lumiBars are set to true. When linearAmplitude is set to false (default), labels are shown in decibels (dB); otherwise, values represent a percentage (0-100%) of the maximum amplitude. See also minDecibels and maxDecibels. Defaults to false.</p>
+                <p><strong><code>showScaleY</code></strong> - True to display the level/amplitude scale on the Y axis. This option has no effect when radial or lumiBars are set to true. When linearAmplitude is set to false (default), labels are shown in decibels (dB); otherwise, values represent a percentage (0-100%) of the maximum amplitude. See also minDecibels and maxDecibels. Defaults to false.</p>
             </div>
         </div>
         </div>
