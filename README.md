@@ -94,6 +94,18 @@ width: 100%;
                 <br>
                 <p><strong><code>showScaleY</code></strong> - True to display the level/amplitude scale on the Y axis. This option has no effect when radial or lumiBars are set to true. When linearAmplitude is set to false (default), labels are shown in decibels (dB); otherwise, values represent a percentage (0-100%) of the maximum amplitude. See also minDecibels and maxDecibels. Defaults to false.</p>
             </div>
+            <div>
+            <br>
+            <br>
+                <hr>
+                <h4> Time - Amplitude chart </h4>
+                <p>The x-axis represents time and the y-axis represents amplitude. The amplitude change corresponding to the time of the sound data is visualized and shown.</p>
+                <br>
+                <br>
+                <hr>
+                <h4> Code - Pitch chart </h4>
+                <p>The x-axis represents the scale, and the y-axis represents the pitch of the scale. It is a chart that analyzes and shows the pitch of scales appearing in sound data.</p>
+            </div>
         </div>
         </div>
             <br>
