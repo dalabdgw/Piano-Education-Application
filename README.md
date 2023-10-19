@@ -64,8 +64,9 @@ Django research in university
                 <p><strong><code>outlineBars</code></strong> - When true and mode is set to one of the bands modes, analyzer bars are rendered outlined, with customizable fillAlpha and lineWidth. For effect priority when combined with other settings, see isOutlineBars. Defaults to false.</p>
                 <br>
                 <br>
-                <p><strong><code>loRes</code></strong> - True for low resolution mode. Defaults to false. Low resolution mode halves the effective pixel ratio, resulting in four times less pixels to render. This may improve performance significantly, especially in 4K+ monitors. If you want to allow users to interactively toggle low resolution mode, you may need to set a fixed size for the canvas via CSS. 
-                    <br>like so:
+                <p><strong><code>loRes</code></strong> - True for low resolution mode. Defaults to false. Low resolution mode halves the effective pixel ratio, resulting in four times less pixels to render. This may improve performance significantly, especially in 4K+ monitors. If you want to allow users to interactively toggle low resolution mode, you may need to set a fixed size for the canvas via css.
+                    <br>
+                    <br>like so:<br>
 
 canvas {
 display: block;
