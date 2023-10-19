@@ -104,7 +104,7 @@ width: 100%;
                 <br>
                 <br>
                 <h4> Code - Pitch chart </h4>
-                <p>The x-axis represents the scale, and the y-axis represents the pitch of the scale. It is a chart that analyzes and shows the pitch of scales appearing in sound data. The analysis information can be viewed by enlarging the desired part through drag, and the analysis chart can be stored as an image.</p>
+                <p>The x-axis represents the scale, and the y-axis represents the pitch of the scale. It is a chart that analyzes and shows the pitch of scales appearing in sound data. The analysis information can be viewed by enlarging the desired part through drag, and the analysis chart can be stored as an image. For example, the pitch of "D₄" is about 400, while that of "G₅" is close to 800.</p>
                 <hr>
             </div>
         </div>
