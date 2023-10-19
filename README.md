@@ -100,7 +100,12 @@ width: 100%;
             <br>
                 <hr>
                 <h4> Time - Amplitude chart </h4>
-                <p>The x-axis represents time and the y-axis represents amplitude. The amplitude change corresponding to the time of the sound data is visualized and shown. You can also move the scrollbar below to cut and view only the information on the desired section.</p>
+                <p>The x-axis represents time and the y-axis represents amplitude. The amplitude change corresponding to the time of the sound data is visualized and shown. You can also move the scrollbar below to cut and view only the information on the desired section. The graph has several colored regions, which represent a specific amplitude range. <br><br>
+Red: 6000<br>
+Blue: 4500-6000<br>
+Orange: 3000-4500<br>
+Yellow: 1500-3000<br>
+Green: 0-1500</p><br>
                 <br>
                 <br>
                 <h4> Code - Pitch chart </h4>
