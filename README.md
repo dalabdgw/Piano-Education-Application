@@ -44,7 +44,7 @@ Django research in university
                 <br>
                 <hr>
                 <p><strong><code>alphaBars</code></strong> - When set to true each bar's amplitude affects its opacity, i.e., higher bars are rendered more opaque while shorter bars are more transparent. 
-                    This is similar to the lumiBars effect, but bars' amplitudes are preserved and it also works on Discrete mode and radial spectrum.
+                    This is similar to the lumiBars effect, but bars' amplitudes are preserved and it also works on discrete mode and radial spectrum.
                     For effect priority when combined with other settings, see isAlphaBars.
                     Defaults to false.</p>
                 <br>
@@ -58,7 +58,7 @@ Django research in university
                 <p><strong><code>lumiBars</code></strong> - This is only effective for frequency bands modes (see mode). When set to true all analyzer bars will be displayed at full height with varying luminance (opacity, actually) instead. lumiBars takes precedence over alphaBars and outlineBars, except on radial spectrum. For effect priority when combined with other settings, see isLumiBars. Defaults to false.</p>
                 <br>
                 <br>
-                <p><strong><code>noteLabels</code></strong> - When set to true displays musical note labels instead of frequency values, in the X axis (when showScaleX is also set to true). For best visualization in octave bands modes, make sure frequencyScale is set to 'log' and ansiBands is set to false, so bands are tuned to the equal temperament musical scale. Defaults to false.</p>
+                <p><strong><code>noteLabels</code></strong> - When set to true displays musical note labels instead of frequency values, in the x axis (when showScaleX is also set to true). For best visualization in octave bands modes, make sure frequencyScale is set to 'log' and ansiBands is set to false, so bands are tuned to the equal temperament musical scale. Defaults to false.</p>
                 <br>
                 <br>
                 <p><strong><code>outlineBars</code></strong> - When true and mode is set to one of the bands modes, analyzer bars are rendered outlined, with customizable fillAlpha and lineWidth. For effect priority when combined with other settings, see isOutlineBars. Defaults to false.</p>
@@ -90,10 +90,10 @@ width: 100%;
                 <p><strong><code>showPeaks</code></strong> - True to show amplitude peaks. Defaults to true.</p>
                 <br>
                 <br>
-                <p><strong><code>showScaleX</code></strong> - True to display scale labels on the X axis. See also noteLabels. Defaults to true.</p>
+                <p><strong><code>showScaleX</code></strong> - True to display scale labels on the x axis. See also noteLabels. Defaults to true.</p>
                 <br>
                 <br>
-                <p><strong><code>showScaleY</code></strong> - True to display the level/amplitude scale on the Y axis. This option has no effect when radial or lumiBars are set to true. When linearAmplitude is set to false (default), labels are shown in decibels (dB); otherwise, values represent a percentage (0-100%) of the maximum amplitude. See also minDecibels and maxDecibels. Defaults to false.</p>
+                <p><strong><code>showScaleY</code></strong> - True to display the level/amplitude scale on the y axis. This option has no effect when radial or lumiBars are set to true. When linearAmplitude is set to false (default), labels are shown in decibels (dB), otherwise, values represent a percentage (0-100%) of the maximum amplitude. See also minDecibels and maxDecibels. Defaults to false.</p>
             </div>
             <div>
             <br>
@@ -142,18 +142,18 @@ width: 100%;
                 <p>
                     <h3>- Environment -</h3><br>
                     Python 3.8    <br>
-                    Django Framework    <br>
+                    Django framework    <br>
                     Echart    <br>
                     Bootstrap 5.1.3    <br>
                     HTML/CSS/JS vanilla    <br>
                     <br />
                     <h3>- Module -</h3> <br>
-                    librosa    <br>
+                    Librosa    <br>
                     PIL    <br>
-                    pyscript    <br>
-                    scipy    <br>
-                    numpy    <br>
-                    matplotlib    <br>
+                    Pyscript    <br>
+                    Scipy    <br>
+                    Numpy    <br>
+                    Matplotlib    <br>
                     <br>
                 </p>
           </div>
